@@ -1,6 +1,6 @@
 // +build windows
 
-package windowsconsole // import "github.com/docker/docker/pkg/term/windows"
+package windowsconsole // import "github.com/dims/mobyutils/pkg/term/windows"
 
 import (
 	"bytes"

@@ -1,4 +1,4 @@
-package jsonlog // import "github.com/docker/docker/daemon/logger/jsonfilelog/jsonlog"
+package jsonlog // import "github.com/dims/mobyutils/daemon/logger/jsonfilelog/jsonlog"
 
 import (
 	"time"

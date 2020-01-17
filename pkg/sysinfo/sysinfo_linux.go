@@ -1,4 +1,4 @@
-package sysinfo // import "github.com/docker/docker/pkg/sysinfo"
+package sysinfo // import "github.com/dims/mobyutils/pkg/sysinfo"
 
 import (
 	"fmt"
